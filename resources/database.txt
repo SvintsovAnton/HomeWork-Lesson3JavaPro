@@ -1,0 +1,4 @@
+id- 1, brand - Audi, model - A5, number - MAD580, year - 2020, mileage - 45600.5, sticker-null
+id- 2, brand - BMW, model - X1, number - MTA289, year - 2019, mileage - 46981.8, sticker-null
+id- 3, brand - Volvo, model - XC40, number - MRT777, year - 2021, mileage - 87546.1, sticker-null
+id- 4, brand - VW, model - Passat, number - MTN999, year - 2023, mileage - 1600.9, sticker-null
